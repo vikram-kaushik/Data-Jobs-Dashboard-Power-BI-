@@ -4,7 +4,9 @@ An interactive Power BI dashboard analyzing 2024 data job postings — covering 
 
 ## 📊 Dashboard Overview
 
-![Data Jobs Dashboard](dashboard_images/main-dashboard.png)
+
+<img width="1451" height="812" alt="Screenshot 2026-07-06 124011" src="https://github.com/user-attachments/assets/a6dabfc5-65e9-4d0c-af3e-df4b5207c1b5" />
+
 
 **Key metrics tracked:**
 - **Job Count:** 479K postings analyzed
@@ -20,7 +22,7 @@ An interactive Power BI dashboard analyzing 2024 data job postings — covering 
 
 ## 🔍 Drill-Through: Job Title Details
 
-![Job Title Drill Through](dashboard_images/drill-through-view.png)
+<img width="1450" height="809" alt="Screenshot 2026-07-06 124046" src="https://github.com/user-attachments/assets/d298e669-f60b-4abe-8e02-5c88e2b2fe57" />
 
 Clicking into any job title (e.g., Machine Learning Engineer) opens a detail page showing:
 - Median yearly & hourly salary gauges
